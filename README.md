@@ -4,8 +4,8 @@
    <title>MY informations</title>
   </head>
   <body>
-    <h1>My name is Tanzida Nowshin</h1>
-    <p>my id is 011 193 017</p>
+    <h1>My informations</h1>
+    <p>My name is Tanzida Nowshin</p>
     </body>
     
 </html>

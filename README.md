@@ -11,8 +11,10 @@
  <head>
   <title>My Academic information</title>
  </head>
- <body
-       <h1>My academic information</h1>
-       <p>passed ssc from A.K school&college
+ <body>
+       <h2>My academic information</h2>
+       <p>passed ssc from A.K school&college</p>
+ </body>
+       
     
 </html>

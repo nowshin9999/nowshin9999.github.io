@@ -13,7 +13,7 @@
  </head>
  <body>
        <h2>"My academic information"</h2>
-  <h3 style="background-color:Mediumseareen;">MediumSeaGreen</h3>
+  <h2 style="background-color:Mediumseareen;">MediumSeaGreen</h2>
        <p>passed ssc from A.K school&college</p>
  </body>
        

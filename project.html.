@@ -1,0 +1,43 @@
+<html>
+<head>
+  <title>"My Information"</title>
+ 
+  <style>
+    h1,h2,p{
+      text-align:center;
+      color:black;}
+  </style>
+  <style>
+    h2{
+      border: 5px solid black;
+      margin-top: 102px;
+      margin-bottom: 102px;
+      margin-right: 152px;
+      margin-left:82px;
+    }
+    body{
+    	background-image: url("https://images.pexels.com/photos/40465/pexels-photo-40465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")
+    }
+  </style>
+    <style>
+    h1{
+      border: 5px solid black;
+      margin-top: 102px;
+      margin-bottom: 102px;
+      margin-right: 152px;
+      margin-left:82px;
+    }
+  </style>
+  </head>
+<body>
+  <h1>"My personal information"</h1>
+  <h1 style="background-color:Tomato;"></h1>
+  <p> My name is <b>Tanzida Nowshin</b></p>
+  <p>My I'D is <b>011 193 017</b></p>
+  <h2>"My Academic History"</h2>
+  <p>Passed S.S.C from <a href="http://akschoolandcollege.edu.bd">A.K School & College</a></p><br>
+  <p>Passed H.S.C from <a href="http://www.bbggc.gov.bd">Begum Badrunnesa  govt. Girls College</a><p><br>
+  <p><a href="Round.html">Go to Round 2"</a></p><br>
+  
+  </body>
+  </html>
